@@ -1,5 +1,3 @@
-% Programmer: Jingwei Too
-
 function FFNN=jFFNN(feat,label,kfold,Hiddens,Maxepochs)
 if length(Hiddens)==1
     h1=Hiddens(1); net=feedforwardnet(h1);

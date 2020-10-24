@@ -1,5 +1,3 @@
-% Programmer: Jingwei Too
-
 function GRNN=jGRNN(feat,label,kfold,nSpread)
 fold=cvpartition(label,'kfold',kfold);
 pred2=[]; ytest2=[]; Afold=zeros(kfold,1); 
