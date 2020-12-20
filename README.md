@@ -100,10 +100,10 @@ confmat  = NN.con;
 
 ## List of available neural network methods
 * Use the *opts* to set the specific parameters
-* The 'nn', 'ffnn', 'cfnn', and 'rnn' have two extra parameters
+* The NN, FFNN, CFNN, and RNN have two extra parameters
   + *H*          : hidden layer sizes
   + *Maxepochs*  : maximum number of epochs
-* The 'grnn' and 'pnn' have one extra parameter
+* The GRNN and PNN have one extra parameter
   + *nSpread*    : number of spread
 
 
