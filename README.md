@@ -104,7 +104,7 @@ confmat  = NN.con;
   + *H*          : hidden layer sizes ( up to three layers )
   + *Maxepochs*  : maximum number of epochs
 * The GRNN and PNN have one extra parameter
-  + *nSpread*    : number of spread
+  + *nSpread*    : number of spreads
 
 
 | No. | Abbreviation | Name                                   | Extra Parameter(s)   |
