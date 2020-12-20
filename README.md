@@ -1,4 +1,4 @@
-# Neural Network Toolbox
+# Jx-NNT : Neural Network Toolbox
 
 ---
 > "Toward Talent Scientist: Sharing and Learning Together"
