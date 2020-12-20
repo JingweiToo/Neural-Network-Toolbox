@@ -1,5 +1,10 @@
 # Neural Network Toolbox
 
+---
+> "Toward Talent Scientist: Sharing and Learning Together"
+>  --- [Jingwei Too](https://jingweitoo.wordpress.com/)
+---
+
 ![Wheel](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/f07d43c1-fda1-43b0-94df-aa10813e1b90/6023aed2-2735-4a12-a6d6-01ffa0d1b173/images/screenshot.PNG)
 
 
