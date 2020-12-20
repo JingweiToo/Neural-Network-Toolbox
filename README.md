@@ -64,7 +64,7 @@ load iris.mat;
 % Perform neural network 
 opts.tf        = 1;
 opts.ho        = 0.3;
-opts.H         = [10, 10];
+opts.H         = 10;
 opts.Maxepochs = 50;
 NN = jnn('ffnn',feat,label,opts); 
 
