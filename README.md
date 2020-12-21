@@ -49,7 +49,7 @@ NN = jnn('rnn',feat,label,opts);
 
 
 ## How to choose the validation scheme?
-There are two types of validation strategies are listed as follows:
+There are two types of validation strategies listed as follows:
   + Hold-out validation
 ```code 
 opts.tf    = 1;
